@@ -1,0 +1,18 @@
+html{
+    font-size: medium;
+    
+}
+body {
+    background-color:white;
+    color: black;
+}
+table {
+    
+    border-collapse: collapse;
+    width: fit-content;
+}
+th, td, tr,caption {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
